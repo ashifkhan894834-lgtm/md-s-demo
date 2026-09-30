@@ -1,4 +1,4 @@
-# md-s-demo
+# mds-demo
 this is my first Git Repository.
 <br>
 Author - Md Ashif
